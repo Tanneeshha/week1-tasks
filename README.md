@@ -5,7 +5,7 @@ This folder contains the solutions provided by Taneesha for the Week 1 tasks of 
 
 **Tasks Overview**
 
-**Task 1: Sum Calculator****
+**Task 1: Sum Calculator**
 
 **Description:** A simple program that calculates the sum of two integers.
 
