@@ -54,6 +54,6 @@ Array 6: Large Random Numbers for Advanced Sorting
 
 How to Run:
 
-Open ArrayOperations.java in your Java IDE.
+Open ArraySorting.java in your Java IDE.
 
 Run the program to see sorting and manipulations on the sample arrays.
