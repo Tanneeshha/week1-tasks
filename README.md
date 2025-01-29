@@ -24,13 +24,13 @@ Open BasicCalculator.java in your Java IDE.
 
 Run the program, input two numbers and select the desired operation.
 
-Task 3: Pyramid Pattern Printer
+Task 3: Pattern Printer
 
-Description: A program that prints a pyramid pattern using loops.
+Description: A program that prints a pyramid pattern or diamond partner as per user selection using loops.
 
 How to Run:
 
-Open PatternPrinter.java in your Java IDE.
+Open PatternsPrinter.java in your Java IDE.
 
 Run the program to view the generated pyramid pattern.
 
